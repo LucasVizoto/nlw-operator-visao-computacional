@@ -53,6 +53,7 @@ def main():
     print("  's' - Salva UMA captura dos landmarks atuais")
     print("  'r' - Inicia/Para gravação CONTÍNUA")
     print("  'q' - Sair")
+    # uv run collect_landmarks.py --label "rock"
 
     recording = False
 

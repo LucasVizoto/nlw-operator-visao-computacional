@@ -1,5 +1,5 @@
 import cv2
-import mediapipe as mp
+import mediapipe as mp #lib do google para rodar modelos em multiplataformas
 import numpy as np
 import os
 import joblib
